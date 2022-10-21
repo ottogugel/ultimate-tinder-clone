@@ -1,10 +1,16 @@
 # :fire: Ultimate Clone Tinder
 ![GitHub](https://img.shields.io/github/license/lucasliet/Calculadora-IMC)
 
+<p align="center">
+  <img alt="ultimate-cloner-tinder" src="preview.png" width="100%">
+</p>
+
+## :computer: Projeto
+
 Ultimate Clone Tinder 🔥 feito em React JS e MongoDB
 
-
 ## :notebook: Sumário
+- [Projeto](#computer-projeto)
 - [Créditos](#tada-créditos)
 
 ### :thinking: Projeto Ultimate Clone Tinder
