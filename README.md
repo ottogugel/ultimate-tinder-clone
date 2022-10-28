@@ -1,8 +1,7 @@
 # :fire: Ultimate Clone Tinder
-![GitHub](https://img.shields.io/github/license/lucasliet/Calculadora-IMC)
 
 <p align="center">
-  <img alt="ultimate-cloner-tinder" src="preview.png" width="100%">
+  <img alt="ultimate-cloner-tinder" src="" width="100%">
 </p>
 
 ## :computer: Projeto
